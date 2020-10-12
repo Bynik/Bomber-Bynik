@@ -332,7 +332,7 @@ Sms spam Sms spam
 
 ''')
     
-    _phone = input('Дароу введи номер')
+    _phone = input('Дароу введи номер:')
     
     _name = ''
     
