@@ -315,8 +315,7 @@ def sent (_phone, _name):
     	except:
     		print('[-] Не отправлено!')
 
-
-
+        
     	try:
     		iteration += 1
     		print(('{} круг пройден.').format(iteration))
