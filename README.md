@@ -6,4 +6,4 @@ pip3 install requests
 
 cd Bomber-Bynik
 
-python3 Bomber-Bynik.py
+python3 Bynikbomb.py
